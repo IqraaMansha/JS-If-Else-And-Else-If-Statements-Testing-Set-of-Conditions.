@@ -3,6 +3,7 @@
 // Testing Set of Conditions.
 
 
+
 // Q.no.1
 var a = prompt("Enter a single character");
 if (a.charCodeAt() >= 65 && a.charCodeAt() <= 90) {
