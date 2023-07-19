@@ -1,6 +1,7 @@
 // Assigment No. 12 - 13
 // If Else And Else If Statements,
 // Testing Set of Conditions.
+
 // Q.no.1
 
 var a = prompt("Enter a single character");
