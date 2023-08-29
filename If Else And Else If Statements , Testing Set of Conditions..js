@@ -4,6 +4,7 @@
 
 // Q.no.1
 
+
 var a = prompt("Enter a single character");
 if (a.charCodeAt() >= 65 && a.charCodeAt() <= 90) {
     alert("Capital Letter");
